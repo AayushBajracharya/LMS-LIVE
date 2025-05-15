@@ -1,0 +1,64 @@
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Domain.dll
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Domain.pdb
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+F:\Visual Studio\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+F:\React_Project\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+F:\React_Project\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+F:\React_Project\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+F:\React_Project\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Domain.dll
+F:\React_Project\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Domain.pdb
+F:\React_Project\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+F:\React_Project\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\React_Project\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+F:\React_Project\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+F:\React_Project\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+F:\React_Project\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+F:\React_Project\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+F:\React_Project\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+F:\React_Project\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+F:\React_Project\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+F:\React_Project\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Domain.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Domain.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Domain.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\bin\Debug\net8.0\Domain.pdb
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

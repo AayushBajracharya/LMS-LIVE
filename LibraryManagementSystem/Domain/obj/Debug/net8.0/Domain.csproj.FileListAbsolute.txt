@@ -1,0 +1,52 @@
+F:\Visual Studio\LibraryManagementSystem\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\Visual Studio\LibraryManagementSystem\Domain\bin\Debug\net8.0\Domain.dll
+F:\Visual Studio\LibraryManagementSystem\Domain\bin\Debug\net8.0\Domain.pdb
+F:\Visual Studio\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+F:\Visual Studio\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\Visual Studio\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\Visual Studio\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\Visual Studio\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+F:\Visual Studio\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.dll
+F:\Visual Studio\LibraryManagementSystem\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\Visual Studio\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.pdb
+F:\Visual Studio\LibraryManagementSystem\Domain\obj\Debug\net8.0\ref\Domain.dll
+F:\React_Project\LibraryManagementSystem\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\React_Project\LibraryManagementSystem\Domain\bin\Debug\net8.0\Domain.dll
+F:\React_Project\LibraryManagementSystem\Domain\bin\Debug\net8.0\Domain.pdb
+F:\React_Project\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+F:\React_Project\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\React_Project\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\React_Project\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\React_Project\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\React_Project\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+F:\React_Project\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.dll
+F:\React_Project\LibraryManagementSystem\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\React_Project\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.pdb
+F:\React_Project\LibraryManagementSystem\Domain\obj\Debug\net8.0\ref\Domain.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Domain\bin\Debug\net8.0\Domain.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Domain\bin\Debug\net8.0\Domain.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Domain\obj\Debug\net8.0\ref\Domain.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Domain\bin\Debug\net8.0\Domain.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Domain\bin\Debug\net8.0\Domain.pdb
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Domain\obj\Debug\net8.0\Domain.pdb
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Domain\obj\Debug\net8.0\ref\Domain.dll

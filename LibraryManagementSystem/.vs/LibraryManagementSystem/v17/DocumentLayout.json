@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{120F6FD3-6815-4ED1-8F22-275FFE67E358}|LibraryManagementSystem\\LibraryManagementSystem.csproj|f:\\react_project\\lms-merge\\librarymanagementsystem\\librarymanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120F6FD3-6815-4ED1-8F22-275FFE67E358}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120F6FD3-6815-4ED1-8F22-275FFE67E358}|LibraryManagementSystem\\LibraryManagementSystem.csproj|f:\\react_project\\lms-merge\\librarymanagementsystem\\librarymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{120F6FD3-6815-4ED1-8F22-275FFE67E358}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120F6FD3-6815-4ED1-8F22-275FFE67E358}|LibraryManagementSystem\\LibraryManagementSystem.csproj|f:\\react_project\\lms-merge\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120F6FD3-6815-4ED1-8F22-275FFE67E358}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B586B-CCDD-4BC5-9564-D2437DEA8452}|Domain\\Domain.csproj|f:\\react_project\\lms-merge\\librarymanagementsystem\\domain\\entities\\dtos\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B586B-CCDD-4BC5-9564-D2437DEA8452}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\dtos\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120F6FD3-6815-4ED1-8F22-275FFE67E358}|LibraryManagementSystem\\LibraryManagementSystem.csproj|f:\\react_project\\lms-merge\\librarymanagementsystem\\librarymanagementsystem\\utilities\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120F6FD3-6815-4ED1-8F22-275FFE67E358}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\utilities\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2994BD5D-30DE-4D98-8314-9410149A34ED}|Infrastructure\\Infrastructure.csproj|f:\\react_project\\lms-merge\\librarymanagementsystem\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2994BD5D-30DE-4D98-8314-9410149A34ED}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B586B-CCDD-4BC5-9564-D2437DEA8452}|Domain\\Domain.csproj|f:\\react_project\\lms-merge\\librarymanagementsystem\\domain\\entities\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B586B-CCDD-4BC5-9564-D2437DEA8452}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B586B-CCDD-4BC5-9564-D2437DEA8452}|Domain\\Domain.csproj|f:\\react_project\\lms-merge\\librarymanagementsystem\\domain\\entities\\modles\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B586B-CCDD-4BC5-9564-D2437DEA8452}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\modles\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:28:35.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefreshTokenDTO.cs",
+              "DocumentMoniker": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\Domain\\Entities\\DTOs\\RefreshTokenDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\DTOs\\RefreshTokenDTO.cs",
+              "ToolTip": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\Domain\\Entities\\DTOs\\RefreshTokenDTO.cs",
+              "RelativeToolTip": "Domain\\Entities\\DTOs\\RefreshTokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:53:34.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\Domain\\Entities\\Modles\\Users.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Modles\\Users.cs",
+              "ToolTip": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\Domain\\Entities\\Modles\\Users.cs",
+              "RelativeToolTip": "Domain\\Entities\\Modles\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:49:16.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtTokenHelper.cs",
+              "DocumentMoniker": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\LibraryManagementSystem\\Utilities\\JwtTokenHelper.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Utilities\\JwtTokenHelper.cs",
+              "ToolTip": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\LibraryManagementSystem\\Utilities\\JwtTokenHelper.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Utilities\\JwtTokenHelper.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:48:22.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\Domain\\Entities\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\DTOs\\LoginDTO.cs",
+              "ToolTip": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\Domain\\Entities\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "Domain\\Entities\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:16:27.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\LibraryManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\appsettings.json",
+              "ToolTip": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\LibraryManagementSystem\\appsettings.json",
+              "RelativeToolTip": "LibraryManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T13:15:07.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAnwJ4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:05:53.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "F:\\React_Project\\LMS-Merge\\LibraryManagementSystem\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:17:04.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

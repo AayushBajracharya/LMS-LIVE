@@ -1,0 +1,51 @@
+CREATE DATABASE Library;
+GO
+
+USE Library;
+GO
+
+CREATE TABLE Users (
+    UserId INT PRIMARY KEY IDENTITY(1,1),
+    Username NVARCHAR(100) NOT NULL,
+    Password NVARCHAR(255) NOT NULL,
+    Email NVARCHAR(255) NOT NULL UNIQUE,
+    Role NVARCHAR(10) NOT NULL DEFAULT 'Admin'
+);
+
+CREATE TABLE Students (
+    StudentId INT PRIMARY KEY IDENTITY(1,1),
+    Name NVARCHAR(255) NOT NULL,
+    Email NVARCHAR(255) NOT NULL UNIQUE,
+    ContactNumber NVARCHAR(15) NOT NULL,
+    Department NVARCHAR(100)
+);
+
+CREATE TABLE Authors (
+    AuthorId INT PRIMARY KEY IDENTITY(1,1),
+    Name NVARCHAR(255) NOT NULL,
+    Bio NVARCHAR(MAX)
+);
+
+CREATE TABLE Books (
+    BookId INT PRIMARY KEY IDENTITY(1,1),
+    Title NVARCHAR(255) NOT NULL,
+    AuthorId INT,
+    Genre NVARCHAR(100),
+    ISBN NVARCHAR(13) NOT NULL UNIQUE,
+    Quantity INT DEFAULT 1,
+    CONSTRAINT FK_Author FOREIGN KEY (AuthorId) REFERENCES Authors(AuthorId)
+);
+
+CREATE TABLE Transactions (
+    TransactionId INT PRIMARY KEY IDENTITY(1,1),
+    StudentId INT,
+    UserId INT,
+    BookId INT,
+    TransactionType NVARCHAR(10) NOT NULL,
+    Date DATETIME NOT NULL,
+    CONSTRAINT FK_Student FOREIGN KEY (StudentId) REFERENCES Students(StudentId),
+    CONSTRAINT FK_User FOREIGN KEY (UserId) REFERENCES Users(UserId),
+    CONSTRAINT FK_Book FOREIGN KEY (BookId) REFERENCES Books(BookId),
+    CONSTRAINT CHK_TransactionType CHECK (TransactionType IN ('Borrow', 'Return'))
+);
+GO

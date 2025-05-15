@@ -1,0 +1,72 @@
+F:\Visual Studio\LibraryManagementSystem\Application\bin\Debug\net8.0\Application.deps.json
+F:\Visual Studio\LibraryManagementSystem\Application\bin\Debug\net8.0\Application.dll
+F:\Visual Studio\LibraryManagementSystem\Application\bin\Debug\net8.0\Application.pdb
+F:\Visual Studio\LibraryManagementSystem\Application\bin\Debug\net8.0\Domain.dll
+F:\Visual Studio\LibraryManagementSystem\Application\bin\Debug\net8.0\Infrastructure.dll
+F:\Visual Studio\LibraryManagementSystem\Application\bin\Debug\net8.0\Domain.pdb
+F:\Visual Studio\LibraryManagementSystem\Application\bin\Debug\net8.0\Infrastructure.pdb
+F:\Visual Studio\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+F:\Visual Studio\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+F:\Visual Studio\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+F:\Visual Studio\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+F:\Visual Studio\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.sourcelink.json
+F:\Visual Studio\LibraryManagementSystem\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+F:\Visual Studio\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.dll
+F:\Visual Studio\LibraryManagementSystem\Application\obj\Debug\net8.0\refint\Application.dll
+F:\Visual Studio\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.pdb
+F:\Visual Studio\LibraryManagementSystem\Application\obj\Debug\net8.0\ref\Application.dll
+F:\React_Project\LibraryManagementSystem\Application\bin\Debug\net8.0\Application.deps.json
+F:\React_Project\LibraryManagementSystem\Application\bin\Debug\net8.0\Application.dll
+F:\React_Project\LibraryManagementSystem\Application\bin\Debug\net8.0\Application.pdb
+F:\React_Project\LibraryManagementSystem\Application\bin\Debug\net8.0\Domain.dll
+F:\React_Project\LibraryManagementSystem\Application\bin\Debug\net8.0\Infrastructure.dll
+F:\React_Project\LibraryManagementSystem\Application\bin\Debug\net8.0\Domain.pdb
+F:\React_Project\LibraryManagementSystem\Application\bin\Debug\net8.0\Infrastructure.pdb
+F:\React_Project\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+F:\React_Project\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\React_Project\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+F:\React_Project\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+F:\React_Project\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+F:\React_Project\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.sourcelink.json
+F:\React_Project\LibraryManagementSystem\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+F:\React_Project\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.dll
+F:\React_Project\LibraryManagementSystem\Application\obj\Debug\net8.0\refint\Application.dll
+F:\React_Project\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.pdb
+F:\React_Project\LibraryManagementSystem\Application\obj\Debug\net8.0\ref\Application.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\bin\Debug\net8.0\Application.deps.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\bin\Debug\net8.0\Application.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\bin\Debug\net8.0\Application.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\bin\Debug\net8.0\Domain.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\bin\Debug\net8.0\Infrastructure.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\bin\Debug\net8.0\Domain.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\bin\Debug\net8.0\Infrastructure.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.sourcelink.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\obj\Debug\net8.0\refint\Application.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\Application\obj\Debug\net8.0\ref\Application.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\bin\Debug\net8.0\Application.deps.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\bin\Debug\net8.0\Application.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\bin\Debug\net8.0\Application.pdb
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\bin\Debug\net8.0\Domain.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\bin\Debug\net8.0\Infrastructure.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\bin\Debug\net8.0\Domain.pdb
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\bin\Debug\net8.0\Infrastructure.pdb
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.sourcelink.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\obj\Debug\net8.0\refint\Application.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\obj\Debug\net8.0\Application.pdb
+F:\React_Project\LMS-Merge\LibraryManagementSystem\Application\obj\Debug\net8.0\ref\Application.dll

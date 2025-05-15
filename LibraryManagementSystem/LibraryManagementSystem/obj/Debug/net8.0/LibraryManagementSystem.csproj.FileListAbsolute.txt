@@ -1,0 +1,440 @@
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\appsettings.json
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.staticwebassets.endpoints.json
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.exe
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.deps.json
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.runtimeconfig.json
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.pdb
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Dapper.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\MediatR.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\MediatR.Contracts.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.ClientModel.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Data.SqlClient.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Application.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Domain.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Infrastructure.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Application.pdb
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Domain.pdb
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Infrastructure.pdb
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.AssemblyReference.cache
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfo.cs
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.sourcelink.json
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\scopedcss\bundle\LibraryManagementSystem.styles.css
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.LibraryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.LibraryManagementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.LibraryManagementSystem.props
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibraryManagementSystem.props
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibraryManagementSystem.props
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryM.4D120AE7.Up2Date
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\refint\LibraryManagementSystem.dll
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.pdb
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.genruntimeconfig.cache
+F:\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\ref\LibraryManagementSystem.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\appsettings.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.staticwebassets.endpoints.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.exe
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.deps.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.runtimeconfig.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Dapper.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\MediatR.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\MediatR.Contracts.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.ClientModel.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Data.SqlClient.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Application.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Domain.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Infrastructure.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Application.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Domain.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Infrastructure.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.AssemblyReference.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfo.cs
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.sourcelink.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\scopedcss\bundle\LibraryManagementSystem.styles.css
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.LibraryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.LibraryManagementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.LibraryManagementSystem.props
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibraryManagementSystem.props
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibraryManagementSystem.props
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryM.4D120AE7.Up2Date
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\refint\LibraryManagementSystem.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.genruntimeconfig.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\ref\LibraryManagementSystem.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\appsettings.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.staticwebassets.endpoints.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.exe
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.deps.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.runtimeconfig.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Dapper.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\MediatR.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\MediatR.Contracts.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.ClientModel.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Data.SqlClient.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Application.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Domain.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Infrastructure.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Application.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Domain.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Infrastructure.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.AssemblyReference.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfo.cs
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.sourcelink.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\scopedcss\bundle\LibraryManagementSystem.styles.css
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.LibraryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.LibraryManagementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.LibraryManagementSystem.props
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibraryManagementSystem.props
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibraryManagementSystem.props
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryM.4D120AE7.Up2Date
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\refint\LibraryManagementSystem.dll
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.pdb
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.genruntimeconfig.cache
+F:\React_Project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\ref\LibraryManagementSystem.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\appsettings.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.staticwebassets.endpoints.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.exe
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.deps.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.runtimeconfig.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.pdb
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Dapper.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\MediatR.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\MediatR.Contracts.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.ClientModel.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Data.SqlClient.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Application.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Domain.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Infrastructure.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Application.pdb
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Domain.pdb
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Infrastructure.pdb
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.AssemblyReference.cache
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfo.cs
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.sourcelink.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\scopedcss\bundle\LibraryManagementSystem.styles.css
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.LibraryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.LibraryManagementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.LibraryManagementSystem.props
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibraryManagementSystem.props
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibraryManagementSystem.props
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryM.4D120AE7.Up2Date
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\refint\LibraryManagementSystem.dll
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.pdb
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.genruntimeconfig.cache
+F:\React_Project\LMS-Merge\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\ref\LibraryManagementSystem.dll
